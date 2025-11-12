@@ -44,4 +44,3 @@ Tela de Cadastro
 
 Tela de Relatórios
 ![grid](https://github.com/user-attachments/assets/d1bce395-2732-4db3-a009-5ada8cd8fa6b)
-
